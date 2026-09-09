@@ -10,4 +10,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 ## Bronze learning note
 
 I am learning how forks and pull requests work.
-This change is made in my own fork for practice.
+This change is made in my own fork for practice
